@@ -21,6 +21,8 @@ The purpose of the **_GitHub Desktop++_** fork is to make GHD more useful for ad
   - Use case: you have a repository like an Obsidian vault using robotic commits that you don't want to affect your GitHub stats
   - GitHub Desktop also shows this [attribution warning][4] any time the email in the Git config isn't connected to your GitHub account
 
+- [ ] **Hide *Install Command Line Tool...* menu item when it's already installed**
+
 [0]: https://github.com/desktop/desktop
 [1]: https://github.com/Microsoft/vscode/issues/26185
 [2]: https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---allow-empty-message
