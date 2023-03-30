@@ -23,6 +23,8 @@ The purpose of the **_GitHub Desktop++_** fork is to make GHD more useful for ad
 
 - [ ] **Hide *Install Command Line Tool...* menu item when it's already installed**
 
+- [ ] **Support for multiple GitHub.com accounts**
+
 [0]: https://github.com/desktop/desktop
 [1]: https://github.com/Microsoft/vscode/issues/26185
 [2]: https://git-scm.com/docs/git-commit#Documentation/git-commit.txt---allow-empty-message
