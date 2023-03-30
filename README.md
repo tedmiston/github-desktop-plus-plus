@@ -4,7 +4,7 @@
 
 The purpose of the **_GitHub Desktop++_** fork is to make GHD more useful for advanced Git users.
 
-## Changes from upstream GitHub Desktop
+## Changes from GitHub Desktop upstream
 
 - [ ] **Disable auto-staging of changed files** (https://github.com/desktop/desktop/issues/1788)
   - Auto-staging all changed files is a bizarre [and annoying][1] default for users that have used any other Git client on earth, which do not do this.
